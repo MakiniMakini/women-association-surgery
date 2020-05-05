@@ -1,0 +1,67 @@
+body{
+background-color: rgb(245,195,194);
+font-family: 'Nunito', sans-serif;
+font-size: 0.9rem;
+font-weight: 100;
+}
+#section-2{
+    background-color: white;
+}
+.navbar.scrolled{
+    background-color: rgba(241, 176, 220, 0.6);
+    transition: background 1s;
+  }
+#tlkio{
+    margin-top: 70px;
+}
+.resources{
+    /* background-image: url(https://images.unsplash.com/photo-1519682337058-a94d519337bc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80); */
+    background: cover;
+    background-repeat: no-repeat;
+}
+.resource-text{
+    
+}
+.centered h2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Aref Ruqaa', serif;
+    font-size: 3rem;
+    font-weight: 100;
+  }
+  .centered p{
+    position: absolute;
+    top: 58%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'roboto', serif;
+    font-size: 1.2rem;
+    font-weight: 400;
+  }
+  .top-left h2{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    color: white;
+}
+.list-group-2{
+    background-color: rgb(167, 31, 31);
+}
+hr{
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+h4{
+  font-family: 'Great Vibes', cursive;
+  font-weight: 100;
+  font-size: 30px;
+}
+#social-icons{
+  font-size: 1.8em;
+  letter-spacing: 1.8em;
+}
